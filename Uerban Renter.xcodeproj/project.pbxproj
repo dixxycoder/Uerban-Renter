@@ -292,6 +292,7 @@
 				DEVELOPMENT_TEAM = 93HZ65DU46;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Uerban Renter/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "URBAN RENTER";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +321,7 @@
 				DEVELOPMENT_TEAM = 93HZ65DU46;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Uerban Renter/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "URBAN RENTER";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
