@@ -15,6 +15,7 @@
 		2534FEAE2732DCFE00480CCA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2534FEAC2732DCFE00480CCA /* LaunchScreen.storyboard */; };
 		2534FEB62732E62700480CCA /* Big_Tools_Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2534FEB52732E62700480CCA /* Big_Tools_Controller.swift */; };
 		2534FEB82732E64F00480CCA /* Small_Tools_Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2534FEB72732E64F00480CCA /* Small_Tools_Controller.swift */; };
+		25C288E0273ED7AF00F1A523 /* Small_Tools_part2_Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C288DF273ED7AF00F1A523 /* Small_Tools_part2_Controller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2534FEAF2732DCFE00480CCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2534FEB52732E62700480CCA /* Big_Tools_Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Big_Tools_Controller.swift; sourceTree = "<group>"; };
 		2534FEB72732E64F00480CCA /* Small_Tools_Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Small_Tools_Controller.swift; sourceTree = "<group>"; };
+		25C288DF273ED7AF00F1A523 /* Small_Tools_part2_Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Small_Tools_part2_Controller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,8 +46,6 @@
 		2534FE952732DCFB00480CCA = {
 			isa = PBXGroup;
 			children = (
-				2534FEB72732E64F00480CCA /* Small_Tools_Controller.swift */,
-				2534FEB52732E62700480CCA /* Big_Tools_Controller.swift */,
 				2534FEA02732DCFB00480CCA /* Uerban Renter */,
 				2534FE9F2732DCFB00480CCA /* Products */,
 			);
@@ -66,6 +66,9 @@
 				2534FEA32732DCFB00480CCA /* SceneDelegate.swift */,
 				2534FEA52732DCFB00480CCA /* ViewController.swift */,
 				2534FEA72732DCFB00480CCA /* Main.storyboard */,
+				25C288DF273ED7AF00F1A523 /* Small_Tools_part2_Controller.swift */,
+				2534FEB72732E64F00480CCA /* Small_Tools_Controller.swift */,
+				2534FEB52732E62700480CCA /* Big_Tools_Controller.swift */,
 				2534FEAA2732DCFE00480CCA /* Assets.xcassets */,
 				2534FEAC2732DCFE00480CCA /* LaunchScreen.storyboard */,
 				2534FEAF2732DCFE00480CCA /* Info.plist */,
@@ -149,6 +152,7 @@
 				2534FEB62732E62700480CCA /* Big_Tools_Controller.swift in Sources */,
 				2534FEB82732E64F00480CCA /* Small_Tools_Controller.swift in Sources */,
 				2534FEA42732DCFB00480CCA /* SceneDelegate.swift in Sources */,
+				25C288E0273ED7AF00F1A523 /* Small_Tools_part2_Controller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
