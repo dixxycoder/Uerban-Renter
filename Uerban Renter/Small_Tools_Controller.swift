@@ -15,7 +15,7 @@ class Small_Tools_Controller: UIViewController
     {
         super.viewDidLoad()
         
-        showAllTools.contentSize.height = 2000
+        showAllTools.contentSize.height = 3210
     }
 
 }
